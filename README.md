@@ -1,6 +1,6 @@
-# Customer Churn Predictor (SAP x WiDS Case Competition)
+# Customer Churn Predictor (WiDS x SAP Case Competition)
 
-Uncovered customer churn factors in SAP's AI-driven products, employing machine learning and data analysis methodologies in Python, within the SAP x WiDS Case Competition.
+Uncovered customer churn factors in SAP's AI-driven products, employing machine learning and data analysis methodologies in Python, within the WiDS x SAP Case Competition.
 
 
 ## Problem Statement <!--- do not change this line -->
