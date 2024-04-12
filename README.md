@@ -20,7 +20,7 @@ To accomplish this, we utilized the Random Forest classification algorithm from 
 
 ## Data Sources <!--- do not change this line -->
 
-Dataset provided by SAP x WiDS Case Competition.
+Dataset provided by WiDS x SAP Case Competition.
 
 ## Technologies Used <!--- do not change this line -->
 
